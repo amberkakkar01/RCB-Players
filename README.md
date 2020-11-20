@@ -1,6 +1,6 @@
 # RCB Player App
 
-A new Flutter application.
+This is my very first flutter application. This app keep any account of all current Royal Challengers Bangalore players.
 
 ## Getting Started
 
