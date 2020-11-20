@@ -1,0 +1,114 @@
+[
+  {
+    "name":"Virat Kohli",
+    "address":"Mumbai, India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/289000/289002.1.jpg",
+    "url": "https://www.espncricinfo.com/india/content/player/253802.html"
+  },
+  {
+    "name":"AB de Villiers",
+    "address":"South Africa",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/263700/263764.icon.jpg",
+    "url": "https://www.espncricinfo.com/southafrica/content/player/44936.html"
+  },
+  {
+    "name":"Devdutt Padikkal",
+    "address":"India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/308600/308625.icon.jpg",
+    "url": "https://www.royalchallengers.com/rcb-squad"
+  },
+  {
+    "name":"Aaron Finch",
+    "address":"Australia",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/304000/304053.icon.jpg",
+    "url": "https://www.espncricinfo.com/australia/content/player/5334.html"
+  },
+  {
+    "name":"Chris Morris",
+    "address":"South Africa",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/263700/263779.icon.jpg",
+    "url": "https://www.espncricinfo.com/southafrica/content/player/439952.html"
+  },
+  {
+    "name":"Josh Philippe",
+    "address":"Australia",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/308700/308748.jpg",
+    "url": "https://www.espncricinfo.com/australia/content/player/1124282.html"
+  },
+  {
+    "name":"Parthiv Patel",
+    "address":"India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/304200/304218.icon.png",
+    "url": "https://www.espncricinfo.com/india/content/player/32242.html"
+  },
+  {
+    "name":"Yuzvendra Chahal",
+    "address":"India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/312100/312155.png",
+    "url": "https://www.espncricinfo.com/india/content/player/430246.html"
+  },
+  {
+    "name":"Dale Steyn",
+    "address":"India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/304000/304090.png",
+    "url": "https://www.espncricinfo.com/southafrica/content/player/47492.html"
+  },
+  {
+    "name":"Isuru Udana",
+    "address":"Sri-Lanka",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/305100/305167.icon.jpg",
+    "url": "https://www.espncricinfo.com/srilanka/content/player/328026.html"
+  },
+  {
+    "name":"Shivam Dube",
+    "address":"India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/302500/302580.icon.jpg",
+    "url": "https://www.espncricinfo.com/india/content/player/714451.html"
+  },
+  {
+    "name":"Navdeep Saini",
+    "address":"India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/311100/311185.icon.jpg",
+    "url": "https://www.espncricinfo.com/india/content/player/700167.html"
+  },
+  {
+    "name":"Adam Zampa",
+    "address":"Australia",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263543.icon.jpg",
+    "url": "https://www.espncricinfo.com/australia/content/player/379504.html"
+  },
+  {
+    "name":"Moeen Ali",
+    "address":"England",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/289600/289661.icon.jpg",
+    "url": "https://www.espncricinfo.com/england/content/player/8917.html"
+  },
+  {
+    "name":"Mohammed Siraj",
+    "address":"India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/311100/311184.icon.jpg",
+    "url": "https://www.espncricinfo.com/india/content/player/940973.html"
+  },
+  {
+    "name":"Gurkeerat Singh Mann",
+    "address":"India",
+    "contact" : "XXXXXXXXXX",
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/309000/309064.icon.jpg",
+    "url": "https://www.espncricinfo.com/india/content/player/537124.html"
+  }
+]
