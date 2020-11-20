@@ -1,4 +1,4 @@
-# flutter_app
+# RCB Player App
 
 A new Flutter application.
 
