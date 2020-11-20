@@ -1,7 +1,11 @@
 # RCB Player App
 
-This is my very first flutter application. This app keep any account of all current Royal Challengers Bangalore players.
+This is my very first flutter application. This app keep any account of all current players of IPL franchise Royal Challengers Bangalore.
 
+
+The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League. It was founded in 2008 by United        Spirits and named after the company's liquor brand Royal Challenge.
+   
+   
 ## Getting Started
 
 This project is a starting point for a Flutter application.
