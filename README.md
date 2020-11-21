@@ -1,6 +1,6 @@
 # RCB Player App &nbsp;&nbsp; 
 
-<img src="https://i.ytimg.com/vi/fh1REOq0Ycc/maxresdefault.jpg">&nbsp;&nbsp;
+<img src="https://www.kyrosports.com/wp-content/uploads/2019/12/EMPMJ_nUEAA1Y_z.jpeg">&nbsp;&nbsp;
 
 
 This is my very first flutter application. This app keep any account of all current players of IPL franchise Royal Challengers Bangalore.
