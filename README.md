@@ -5,15 +5,14 @@
 
 This is my very first flutter application. This app keep any account of all current players of IPL franchise Royal Challengers Bangalore.
 
-
+'''
 The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League. It was founded in 2008 by United        Spirits and named after the company's liquor brand Royal Challenge.
+'''
 
 
 ## Working model
 
-<img src="https://github.com/amberkakkar01/RCB-Players/blob/main/assets/images/pic1.jpeg" width="350" height="580">&nbsp;<img src="https://github.com/amberkakkar01/RCB-Players/blob/main/assets/images/pic2.jpeg" width="350" height="580"><img src="https://github.com/amberkakkar01/RCB-Players/blob/main/assets/images/pic3.jpeg" width="350" height="580">
-
-
+<img src="https://github.com/amberkakkar01/RCB-Players/blob/main/assets/images/pic1.jpeg" width="350" height="580">&nbsp;<img src="https://github.com/amberkakkar01/RCB-Players/blob/main/assets/images/pic2.jpeg" width="350" height="580">
 
    
    
