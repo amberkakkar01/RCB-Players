@@ -11,7 +11,7 @@ The Royal Challengers Bangalore are a franchise cricket team based in Bangalore,
 
 ## Working model
 
-<img src="https://github.com/amberkakkar01/RCB-Players/tree/main/assets/images/pic1.jpg">&nbsp;&nbsp;
+<img src="https://github.com/amberkakkar01/RCB-Players/blob/main/assets/images/pic1.jpeg">
    
    
 ## Getting Started
