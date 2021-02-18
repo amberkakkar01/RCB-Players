@@ -8,6 +8,8 @@ This is my very first flutter application. This app keep any account of all curr
 
 The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League. It was founded in 2008 by United        Spirits and named after the company's liquor brand Royal Challenge.
 
+PS: Please do not forget to drop a star if you like it!
+
 
 
 ## Working model
